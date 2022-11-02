@@ -32,7 +32,8 @@ Fonte/ [O Globo](https://oglobo.globo.com/brasil/sustentabilidade/relatorio-most
 
 List with methods, ex:
 + Importando bibliotecas
-  + Pandas
+  + Pandas<img width="398" alt="image" src="https://user-images.githubusercontent.com/109931715/199508406-4a62171b-8ae0-4cf2-bfe8-0e437a8da9fc.png">
+
   + Numpy
   + Re
   + Date Time
@@ -87,7 +88,20 @@ List with methods, ex:
   + Reset index
   + px
  
+ #### Conclusão 
  ➡️ Com a visualização de todos esses dados e informações pude concluir que os ataques de tubarão está relacionado a duas questões que diretamente não  está ligado diretamente com o animal e sim com o ser humano. Todo esse crescimento esponencial de casos tem haver com a "invasão" do ser humano ao seu habitat, tanto para exploração quanto para a atividade. Como o animal não consegue distinguir o ser humano de sua presa ele acaba atacando, infelizmente em alguns casos isso acaba se tornando fatal, ou como muita das vezes as sequelas são permanentes. Mesmo as praias tendo alertas de ataques de tubarão o ser humano acaba se expondo ao perigo de forma consciente. O maior pico de ataque de tubarões foi em 2015 e o vintênio foi de 2000 a 2019.
 
+
+
+#### Ataques por Mês
+![texto](https://github.com/ReinaldoASilva/Shark-Attack/blob/70b1755f0a646207937b1e7086c2d8541cc097b7/Captura%20de%20Tela%202022-11-02%20a%CC%80s%2010.48.17.png)
+
+#### Ataques por Ano
+![texto](https://github.com/ReinaldoASilva/Shark-Attack/blob/main/porano.jpge.png)
+
+#### Ataques por Vintênio
+![texto](https://github.com/ReinaldoASilva/Shark-Attack/blob/main/porvintenio.jpge.png)
+
+#### Contato
 [Linkedin](https://www.linkedin.com/in/reinaldo-silva-15856558/)  / [Medium](https://medium.com/@reinaldo.silva) / [YouTube](https://www.youtube.com/channel/UCELBXwJnsu9QlTSONJy6w8w) / [GitHub](https://github.com/ReinaldoASilva) / [Kaggle](https://www.kaggle.com/reinaldoasilva)
 
